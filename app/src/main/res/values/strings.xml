@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClienteSI</string>
+    <string name="dica_busca">cliente</string>
+    <string name="txt_botao">Buscar</string>
+</resources>
